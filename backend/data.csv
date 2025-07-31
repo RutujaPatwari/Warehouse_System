@@ -1,0 +1,11 @@
+id,name,current_stock,average_daily_sales,lead_time,min_reorder_qty,cost_per_unit,criticality
+1,Smart LED TV,100,5,7,50,10,high
+2,Window Air Conditioner,20,5,5,100,15,medium
+3,Bluetooth Speaker,500,2,10,200,20,low
+4,Home Theater System,50,8,3,75,12,high
+5,Microwave Oven,150,3,6,100,18,medium
+6,Double Door Refrigerator,80,6,4,60,11,high
+7,Smartphone Charger,60,7,8,90,14,medium
+8,Ceiling Fan,30,4,5,50,13,high
+9,Wireless Router,200,1,12,150,16,low
+10,Front Load Washing Machine,40,9,2,70,17,high
